@@ -1,3 +1,4 @@
+<script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
 import React, { useState, useEffect, useMemo } from 'react';
 import { initializeApp } from 'firebase/app';
 import { getAuth, signInAnonymously, signInWithCustomToken, onAuthStateChanged } from 'firebase/auth';
